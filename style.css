@@ -1,0 +1,22 @@
+body{
+    background: url('ice.jpg') no-repeat;
+    background-size:cover;
+    font-family: 'Times New Roman';
+    color: white;
+}
+ul {
+    margin: 0px
+}
+ul li{
+    float: left;
+    width: 200px;
+    height:40px;
+    background-color: black;
+    text-align: center;
+    font-size: 20px;
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    display: block;
+}
